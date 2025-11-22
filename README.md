@@ -90,15 +90,15 @@ Rapidly customizable base for building SaaS products.
 * I love building **real-time & AI-driven systems**.
 * I explore **biotechnology** and how software can solve real food insecurity.
 * I write **poems**.
-* I'm learning **Flutter** just for curiosity.
+* I'm learning **Java**☕️ just for curiosity.
 
 ---
 
 ## 📫 Let's Connect
 
-* **Email:** *(add your email)*
-* **LinkedIn:** *(add your LinkedIn link)*
-* **Portfolio:** *(optional)*
+* **Email:** *ajibadeyakubadebare@gmail.com*
+* **LinkedIn:** *https://www.linkedin.com/in/yakub-ajibade-3954451b9/*
+* **Portfolio:** *https://labysolutions.com.ng/*
 * **Company:** Labyrinth Solutions – tech that navigates complexity.
 
 ---
