@@ -1,4 +1,4 @@
-# Hi, I'm Ayatoo 👋
+# Hi, I'm Ajibade Yakub Adeabare 👋
 
 "**We are different**" — and so is the way I build, think, and solve problems.
 
